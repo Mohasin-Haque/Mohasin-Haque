@@ -1,50 +1,68 @@
-<h1 align="center">Hi 👋, I'm Mohasin Haque</h1>
-<h3 align="center">A passionate and aspiring MERN stack developer from India</h3>
+<h1 align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!+👋;Mohasin+here...;Glad+to+see+you!&center=true&size=30">
+  </a>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohasin-haque&label=Profile%20views&color=0e75b6&style=flat" alt="mohasin-haque" /> </p>
+<p align="center">
+<a href="https://www.instagram.com/its_mohasin_official/" alt="Instgram Follow">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://mohasin-portfolio.netlify.app/" alt="Portfolio">
+  <img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com"/></a>
+   <a href="https://www.linkedin.com/in/mohasin-haque-759786200/" alt="Linkedin Follow">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ </a><br><br>
+ 
+ <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Mohasin-Haque&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
+  <!-- **irsayvid/irsayvid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+  
+- 🔭A passionate and aspiring MERN stack developer from India
+- 🌱 Currently learning React and Backend
+- 🤝 2021 Goals: Contribute more to Open Source projects
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I come here for the green squares
+- 💻 Languages and Tools I use:   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohasin-haque" alt="mohasin-haque" /></a> </p>
+<!--   [<img src="https://img.shields.io/badge/github-%23333.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://www.github.com/irsayvid)  -->
 
-<p align="left"> <a href="https://twitter.com/mohasin_haque" target="blank"><img src="https://img.shields.io/twitter/follow/mohasin_haque?logo=twitter&style=for-the-badge" alt="mohasin_haque" /></a> </p>
+📫 How to reach me:
+<code> [<img src ="https://img.shields.io/badge/instagram-%23E1306C.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/its_mohasin_official/)</code>
+<code>[<img src="https://img.shields.io/badge/linkedin-%230077b5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mohasin-haque-759786200/)</code> 
+<code>[<img src ="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/mohasin_haque)</code> 
+<code>[<img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/watch?v=-r3QA-s7Dw0)</code> 
+<code> [<img src="https://img.shields.io/badge/facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/ajad.ali.3766/)</code>
+<code> [<img src ="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://mohasinhaque23121.medium.com/)</code>
 
-- 👨‍💻 All of my projects are available at [https://mohasin-portfolio.netlify.app/](https://mohasin-portfolio.netlify.app/)
+### 📕 Latest Blog Posts
 
-- 📝 I regularly write articles on [https://mohasinhaque23121.medium.com/](https://mohasinhaque23121.medium.com/)
+<!-- BLOG-POST-LIST:START -->
+- [Now i’m a “web developer”](https://mohasinhaque23121.medium.com/now-im-a-web-developer-676cb192f42b)
+- [Journey of neoG Camp level zero](https://mohasinhaque23121.medium.com/journey-of-neog-camp-level-zero-fbd4d21b5f91)
+<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/mohasin-haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohasin-haque" height="30" width="40" /></a>
-<a href="https://twitter.com/mohasin_haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohasin_haque" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohasin-haque-759786200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohasin-haque-759786200" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14959890/mohasin-9900" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14959890/mohasin-9900" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mohasin-haque" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="mohasin-haque" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ajad.ali.3766/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ajad.ali.3766/" height="30" width="40" /></a>
-<a href="https://instagram.com/its_mohasin_official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_mohasin_official" height="30" width="40" /></a>
-<a href="https://medium.com/@mohasin haque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohasin haque" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mohasinhaque2311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mohasinhaque2311" height="30" width="40" /></a>
+➡️ [more blog posts...](https://mohasinhaque23121.medium.com/)
+
+<p align='center'><img width="450px" style="border-style:solid" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohasin-Haque&theme=radical" alt="AaquibAli Github Stats" />
+  </p> 
+   <p align='center'>
+  <img width="450px" src="https://github-readme-stats.vercel.app/api?username=Mohasin-Haque&count_private=true&theme=radical"/>
 </p>
+  <p align='center'>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Mohasin-Haque&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Mohasin-Haque/count.svg" />
+</p>
+ <div align="center">
+ 
+ ### Show some ❤️ by starring some of the repositories!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohasin-haque&show_icons=true&locale=en&layout=compact" alt="mohasin-haque" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohasin-haque&show_icons=true&locale=en" alt="mohasin-haque" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohasin-haque&" alt="mohasin-haque" /></p>
-
-
-<!--
-**Mohasin-Haque/Mohasin-Haque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
