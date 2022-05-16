@@ -16,13 +16,14 @@
  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
   <img src="https://activity-graph.herokuapp.com/graph?username=Mohasin-Haque&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
   
-- 🔭A passionate and aspiring MERN stack developer from India
+- 🔭A passionate and aspiring Frontend developer from India
 - 🌱 Currently learning React and Backend
-- 🤝 2021 Goals: Contribute more to Open Source projects
+- 🤝 2022 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I come here for the green squares
 - 💻 Languages and Tools I use:   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -43,6 +44,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- ["Temporal Dead Zone"](https://mohasinhaque23121.medium.com/temporal-dead-zone-144d838342bc)
+- ["Compiler vs Transpiler"](https://mohasinhaque23121.medium.com/compiler-vs-transpiler-a64c989607d7)
+- ["History of JavaScript"](https://mohasinhaque23121.medium.com/history-of-javascript-e3d87490d9b5)
 - [Now i’m a “web developer”](https://mohasinhaque23121.medium.com/now-im-a-web-developer-676cb192f42b)
 - [Journey of neoG Camp level zero](https://mohasinhaque23121.medium.com/journey-of-neog-camp-level-zero-fbd4d21b5f91)
 <!-- BLOG-POST-LIST:END -->
