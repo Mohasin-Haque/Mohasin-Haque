@@ -5,8 +5,8 @@
 </h1>
 
 <p align="center">
-<a href="https://www.instagram.com/its_mohasin_official/" alt="Instgram Follow">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://twitter.com/mohasin_haque" alt="Twitter Follow">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://mohasin-portfolio.netlify.app/" alt="Portfolio">
   <img src="https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com"/></a>
    <a href="https://www.linkedin.com/in/mohasin-haque-759786200/" alt="Linkedin Follow">
@@ -14,7 +14,7 @@
  </a><br><br>
  
  <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Mohasin-Haque&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br>
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=Mohasin-Haque&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"><br><br> --><br><br>
   
 - 🔭A passionate and aspiring Frontend developer from India
 - 🌱 Currently learning React and Backend
