@@ -62,12 +62,12 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Mohasin-Haque&theme=radical&hide=jupyter%20notebook&layout=compact&langs_count=8"></p>
 
 <p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Mohasin-Haque/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Mohasin-Haque&style=for-the-badge&color=blueviolet"/>
+  <!-- <img src="https://profile-counter.glitch.me/Mohasin-Haque/count.svg" /> -->
 </p>
  <div align="center">
   
-  <a href="https://quine.sh/profile/Mohasin-Haque"><img src="https://stats.quine.sh/Mohasin-Haque/github" alt="Mohasin-Haque's GitHub stats" width="840px"></a>
+
   
 <!--   [![Spotify playing](http://spotify.aio-api.ml/spotify?id=qy9jhr85so9g8pr6zz7aizc6x&theme=wavy&image=true&bars_when_not_listening=true&bg_color=black&title_color=cyan&text_color=cyan)](https://open.spotify.com/user/qy9jhr85so9g8pr6zz7aizc6x)
   
